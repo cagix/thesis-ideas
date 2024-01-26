@@ -6,7 +6,7 @@ Im Laufe des Informatik-Studiums an der HSBI am Campus Minden müssen immer wied
 
 Hier einige Ideen und Anregungen:
 
-1.  Der [Dungeon](https://github.com/Dungeon-CampusMinden/Dungeon) ist unser Spiele-Projekt für das Modul [Dungeon-CampusMinden](https://github.com/Dungeon-CampusMinden/PM-Lecture) und darüber hinaus. Die Basis ist ein Framework zur Erstellung eines 2D-Rogue-like Dungeon-Crawlers, d.h. ein Spiel, in dem ein Spieler in einem Dungeon herumläuft und Aufgaben lösen muss und immer tiefer steigt ... und dabei ständig stirbt und wieder neu anfängt. Das nutze ich in Dungeon-CampusMinden, wo die Studis schrittweise über das Semester ein eigenes Spiel in Java implementieren.
+1.  Der [Dungeon](https://github.com/Dungeon-CampusMinden/Dungeon) ist unser Spiele-Projekt für das Modul [Programmiermethoden/Programmieren2](https://github.com/Programmiermethoden-CampusMinden/PM-Lecture) und darüber hinaus. Die Basis ist ein Framework zur Erstellung eines 2D-Rogue-like Dungeon-Crawlers, d.h. ein Spiel, in dem ein Spieler in einem Dungeon herumläuft und Aufgaben lösen muss und immer tiefer steigt ... und dabei ständig stirbt und wieder neu anfängt. Das nutze ich in Dungeon-CampusMinden, wo die Studis schrittweise über das Semester ein eigenes Spiel in Java implementieren.
 
     Für ein Forschungsprojekt haben wir das erweitert um eine DSL, mit der Lehrende Aufgaben und Rätsel formulieren, die dann über einen "Interpreter" in ein fertiges Spiel übersetzt werden.
 
