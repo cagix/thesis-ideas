@@ -10,7 +10,7 @@ Hier einige Ideen und Anregungen:
 
     Für ein Forschungsprojekt haben wir das erweitert um eine DSL, mit der Lehrende Aufgaben und Rätsel formulieren, die dann über einen "Interpreter" in ein fertiges Spiel übersetzt werden.
 
-    In diesem Umfeld lassen sich wahnsinnig viele mögliche Themen finden: [**github.com/Dungeon-CampusMinden/Dungeon**](https://github.com/Dungeon-CampusMinden/Dungeon/issues?q=is%3Aopen+is%3Aissue+label%3Athesis). Tipp: Alle Issues in der Liste, die mit "`[Thesis]`" anfangen, sind gute Kandidaten!
+    In diesem Umfeld lassen sich wahnsinnig viele mögliche Themen finden: [**Issues**](https://github.com/Dungeon-CampusMinden/Dungeon/issues?q=is%3Aopen+is%3Aissue+label%3Athesis) und [**Discussions**](https://github.com/Dungeon-CampusMinden/Dungeon/discussions?discussions_q=is%3Aopen+label%3Athesis). Tipp: Alle Issues in der Liste, die mit "`[Thesis]`" anfangen, sind gute Kandidaten!
 
 
 2.  Zusätzlich haben wir für die [Compilerbau-Veranstaltung im Bachelor](https://github.com/Compiler-CampusMinden/CB-Vorlesung-Bachelor) eine Art "LLVM in winzig" geschaffen: den [Mini-Python-Builder](https://github.com/Compiler-CampusMinden/Mini-Python-Builder) (C-Builder plus Runtime). Die Studis können sich aus der AST-Traversierung heraus mit unserem C-Builder passenden C-Code erzeugen lassen, den sie zusammen mit einer Art Runtime und einem gcc oder clang zu einem ausführbaren Programm übersetzen können.
