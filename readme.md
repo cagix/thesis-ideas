@@ -5,7 +5,13 @@ Herzlich willkommen, liebe Suchende!
 Du bist auf der Suche nach einem Thema für Deine Bachelor- oder Masterarbeit oder Dein
 Forschungsprojekt? In den Bereichen **Programmiersprachen und Compilerbau**,
 **Softwarequalität** sowie **Künstliche Intelligenz** betreue ich Arbeiten, die sich mit
-innovativen und praxisrelevanten Fragestellungen auseinander setzen.
+innovativen und praxisrelevanten Fragestellungen auseinander setzen. Ich betreue dabei sowohl
+Arbeiten an der HSBI als auch "mitgebrachte" Themen, beispielsweise in einem Firmenkontext.
+
+Hast Du bereits Ideen, gibt es Dinge, die Du immer schon mal machen/lesen wolltest? Lass uns
+gern darüber austauschen, um diese Ideen gemeinsam zu einem passenden Thema zu entwickeln.
+
+## Programmiersprachen und Compilerbau
 
 Im Bereich **Programmiersprachen und Compilerbau** könntest Du die Auswirkungen bestimmter
 Designentscheidungen von Programmiersprachen auf einen Compiler (und die Runtime) untersuchen.
@@ -15,6 +21,8 @@ Entwicklung eigener Sprachen/DSL oder die Untersuchung der Integration von Progr
 in moderne Software-Entwicklungsumgebungen bieten ebenfalls Potential für interessante
 Projekte.
 
+## Softwarequalität
+
 Innerhalb des Themenfeldes **Softwarequalität** gibt es zahlreiche Ansätze, die Du vertiefen
 kannst. Eine Möglichkeit wäre beispielsweise die Analyse von Software-Testing-Methoden und
 deren Einfluss auf die Softwarequalität. Du könntest auch ein Projekt entwickeln, das die
@@ -22,6 +30,8 @@ Automatisierung von Tests mithilfe von KI-Techniken fördert. Die Evaluierung un
 bestehender Code-Review-Tools (beispielsweise über KI-Methoden) bietet interessante
 Ansatzpunkte. Die Erstellung und Umsetzung eines umfassenden Testkonzepts für ein
 Softwareprojekt könnte ebenfalls eine interessante Arbeit sein.
+
+## Künstliche Intelligenz
 
 Im Bereich **Künstliche Intelligenz**, insbesondere im Gebiet der **Natural Language
 Processing (*NLP*)** und der Anwendung von **Large Language Models (*LLM*)**, stehen Dir
@@ -32,8 +42,7 @@ Anwendungen sein, die sich auf die Erkennung und Verarbeitung von Emotionen oder
 Sarkasmus/Ironie in Texten fokussieren. Zudem ist die Erforschung von Bias in Modellen der
 natürlichen Sprachverarbeitung ein brisantes und relevantes Forschungsfeld.
 
-Hast Du bereits Ideen, gibt es Dinge, die Du immer schon mal machen/lesen wolltest? Lass uns
-gern darüber austauschen, um diese Ideen gemeinsam zu einem passenden Thema zu entwickeln.
+## Ideen aus Projekten
 
 Hier findest Du hier zusätzlich noch einige Ideen und Anregungen aus verschiedenen Projekten:
 
